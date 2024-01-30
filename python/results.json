@@ -1,0 +1,4209 @@
+[96mChecking Directory:[0m [4m/mnt/d/pointwest/BPICT/Mock_FTP/[0m
+[93mNo specified path provided. Will use default: /mnt/d/pointwest/BPICT/Mock_FTP/[0m
+[96mWalking through FTP Server. Please Wait[0m
+[91m/mnt/d/pointwest/BPICT/Mock_FTP/ACC-INT-02/output/Batch 031420221232-B-c9c0d89b78.zip: File is not a zip file[0m
+[92mprocess_dir took 7.8813 seconds to execute[0m
+[96mExtracted KVP:[0m
+{
+    "dd.bfpr.REG_POTC95203_1118745469_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1118745469_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340436.0,
+                "TIN":"000-768-480-000",
+                "Assigned":"Ma. Josefina M Reyes",
+                "Bill no.":null,
+                "Corporate ID":"POTC95203",
+                "Account Number":1118745469,
+                "Primary Number":9178252478,
+                "Billing Period Start":"11\/30\/21 100 5065611609 00401 0100 6011001 0100 0064 - 80510055 0064 - 80510055 0064 - 0011 60001010 1151 01 7001",
+                "Billing Period End":"100 5065611609 00401 0100 0100 - 80510055 - 80510055 - 0011 1151 01 7001",
+                "Due Date":"4110 47 4660001",
+                "Total":null,
+                "Previous Bill Amount":null,
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":"60064 7001 6010060 50010 1009 10915101 10 010005 009 0010 00 7001 00000",
+                "Amount to Pay":null
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":3,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":null,
+                "TIN":"000-768-480-000",
+                "Assigned":"Ma. Josefina M Reyes",
+                "Bill no.":1.0,
+                "Corporate ID":"POTC95203",
+                "Account Number":1118745469,
+                "Primary Number":9178252478,
+                "Billing Period Start":"11-30-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":1078.2,
+                "Previous Bill Amount":"0.00 1078.20",
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":"0.00",
+                "Amount to Pay":1078.2
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":3,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":null,
+                "TIN":"000-768-480-000",
+                "Assigned":"Ma. Josefina M Reyes",
+                "Bill no.":1,
+                "Corporate ID":"POTC95203",
+                "Account Number":1118745469,
+                "Primary Number":9178252478,
+                "Billing Period Start":"11-30-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":1078.2,
+                "Previous Bill Amount":"0.00 1078.20",
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":0.0,
+                "Amount to Pay":1078.2
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1118745477_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-8160b745bcbc\/Searchable PDF\/dd.bfpr.REG_POTC95203_1118745477_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340441.0,
+                "TIN":"000-768-480-000",
+                "Assigned":"Ma. Josefina M Reyes",
+                "Bill no.":null,
+                "Corporate ID":"POTC95203",
+                "Account Number":1118745477,
+                "Primary Number":9178254743,
+                "Billing Period Start":"11\/30\/21 100 5065611609 00401 0100 6011001 0100 0064 - 80510055 0064 - 0011 0064 - 80510055 60001010 1151 01 7001",
+                "Billing Period End":"100 5065611609 00401 0100 0100 - 80510055 - 0011 - 80510055 1151 01 7001",
+                "Due Date":"4110 47 4660001",
+                "Total":null,
+                "Previous Bill Amount":null,
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":"60064 7001 6010060 50010 1009 10915101 10 010005 009 0010 00 7001 00000",
+                "Amount to Pay":null
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":3,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":null,
+                "TIN":"000-768-480-000",
+                "Assigned":"Ma. Josefina M Reyes",
+                "Bill no.":1.0,
+                "Corporate ID":"POTC95203",
+                "Account Number":1118745477,
+                "Primary Number":9178254743,
+                "Billing Period Start":"11-30-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":1078.2,
+                "Previous Bill Amount":"0.00 1078.20",
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":"0.00",
+                "Amount to Pay":1078.2
+            }
+        ]
+    },
+    "10":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/10 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "0":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/0 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "1":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/1 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "11":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/11 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "12":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/12 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "13":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/13 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "14":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/14 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "169622531":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/169622531 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "174470006":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/174470006 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "19":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/19 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "27":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/27 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "28":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/28 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "3":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/3 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "32":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/32 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "33":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/33 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "34":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/34 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "35":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/35 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "36":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/36 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "37":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/37 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "4":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/4 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "5":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/5 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "6":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/6 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "652770940":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/652770940 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "654394261":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/654394261 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "7":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-37e58d9c6b7a\/Searchable PDF\/7 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "8":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/8 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "831006224_159":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/831006224_159 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "846389608_111":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/846389608_111 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "871408742_51":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/871408742_51 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "877267687_32":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/877267687_32 - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Pldt Soa",
+                "Page":3,
+                "Vendor Address":null,
+                "VAT REGISTERED TIN:":null,
+                "Account Number":null,
+                "SOA Number":null,
+                "Bill Date":null,
+                "Total Amount due":null,
+                "Payment Due Date":null,
+                "Adjustments":null,
+                "Account Name":null,
+                "Address":null,
+                "Assigned":null,
+                "Recurring Charges":null,
+                "Usage Charges":null,
+                "VAT PHP":null,
+                "OCT PHP":null,
+                "Total Customer Charges":null,
+                "Previous Balance":null,
+                "Payments":null,
+                "Past Due amount":null
+            },
+            {
+                "Template":"Invoice Pldt Soa",
+                "Page":3,
+                "Vendor Address":null,
+                "VAT REGISTERED TIN:":null,
+                "Account Number":null,
+                "SOA Number":null,
+                "Bill Date":null,
+                "Total Amount due":null,
+                "Payment Due Date":null,
+                "Adjustments":null,
+                "Account Name":null,
+                "Address":null,
+                "Assigned":null,
+                "Recurring Charges":null,
+                "Usage Charges":null,
+                "VAT PHP":null,
+                "OCT PHP":null,
+                "Total Customer Charges":null,
+                "Previous Balance":null,
+                "Payments":null,
+                "Past Due amount":null
+            }
+        ]
+    },
+    "9":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/9 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "APV_013933 PLDT INC._attachment":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/APV_013933 PLDT INC._attachment - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Pldt Soa",
+                "Page":2,
+                "Vendor Address":"Ramon Cojuangco Bidg., Makati Ave., Makati City 1200",
+                "VAT REGISTERED TIN:":"000-488-793-00000",
+                "Account Number":169622531.0,
+                "SOA Number":122520805.0,
+                "Bill Date":"Nov 17, 2021",
+                "Total Amount due":"38,149.36",
+                "Payment Due Date":"Dec 13, 2021",
+                "Adjustments":0.0,
+                "Account Name":"Pointwest Technologies Corporation",
+                "Address":"12F CITIBANK CENTER 8741 PASEO DE ROXAS BGY BEL-AIR MAKATI CITY, METRO MANILA PHILIPPINES",
+                "Assigned":null,
+                "Recurring Charges":"38, 147.12",
+                "Usage Charges":2.25,
+                "VAT PHP":"4,087.44",
+                "OCT PHP":0.0,
+                "Total Customer Charges":"38,149.37",
+                "Previous Balance":"76,256.44",
+                "Payments":"76,256.45",
+                "Past Due amount":"0.01 CF"
+            },
+            {
+                "Template":"Invoice Pldt Soa",
+                "Page":5,
+                "Vendor Address":null,
+                "VAT REGISTERED TIN:":null,
+                "Account Number":null,
+                "SOA Number":null,
+                "Bill Date":null,
+                "Total Amount due":null,
+                "Payment Due Date":null,
+                "Adjustments":null,
+                "Account Name":null,
+                "Address":null,
+                "Assigned":null,
+                "Recurring Charges":null,
+                "Usage Charges":null,
+                "VAT PHP":null,
+                "OCT PHP":null,
+                "Total Customer Charges":null,
+                "Previous Balance":null,
+                "Payments":null,
+                "Past Due amount":null
+            },
+            {
+                "Template":"Invoice Pldt Soa",
+                "Page":8,
+                "Vendor Address":"Ramon Cojuangco Bidg., Makati Ave., Makati City 1200",
+                "VAT REGISTERED TIN:":"000-488-793-00000",
+                "Account Number":174470006.0,
+                "SOA Number":122519875.0,
+                "Bill Date":"Nov 17, 2021",
+                "Total Amount due":"250.02",
+                "Payment Due Date":"Dec 13, 2021",
+                "Adjustments":0.0,
+                "Account Name":"Pointwest Technologies Corporation",
+                "Address":"12F CITIBANK CENTER 8741 PASEO DE ROXAS BGY BEL-AIR MAKATI CITY, METRO MANILA PHILIPPINES",
+                "Assigned":null,
+                "Recurring Charges":"250.00",
+                "Usage Charges":null,
+                "VAT PHP":"26.79",
+                "OCT PHP":0.0,
+                "Total Customer Charges":"250.00",
+                "Previous Balance":"500.02",
+                "Payments":"500.00",
+                "Past Due amount":"0.02"
+            },
+            {
+                "Template":"Invoice Pldt Soa",
+                "Page":2,
+                "Vendor Address":"Ramon Cojuangco Bidg., Makati Ave., Makati City 1200",
+                "VAT REGISTERED TIN:":"000-488-793-00000",
+                "Account Number":169622531.0,
+                "SOA Number":122520805.0,
+                "Bill Date":"Nov 17, 2021",
+                "Total Amount due":"38,149.36",
+                "Payment Due Date":"Dec 13, 2021",
+                "Adjustments":0.0,
+                "Account Name":"Pointwest Technologies Corporation",
+                "Address":"12F CITIBANK CENTER 8741 PASEO DE ROXAS BGY BEL-AIR MAKATI CITY, METRO MANILA PHILIPPINES",
+                "Assigned":null,
+                "Recurring Charges":"38, 147.12",
+                "Usage Charges":2.25,
+                "VAT PHP":"4,087.44",
+                "OCT PHP":0.0,
+                "Total Customer Charges":"38,149.37",
+                "Previous Balance":"76,256.44",
+                "Payments":"76,256.45",
+                "Past Due amount":"0.01 CF"
+            },
+            {
+                "Template":"Invoice Pldt Soa",
+                "Page":5,
+                "Vendor Address":null,
+                "VAT REGISTERED TIN:":null,
+                "Account Number":null,
+                "SOA Number":null,
+                "Bill Date":null,
+                "Total Amount due":null,
+                "Payment Due Date":null,
+                "Adjustments":null,
+                "Account Name":null,
+                "Address":null,
+                "Assigned":null,
+                "Recurring Charges":null,
+                "Usage Charges":null,
+                "VAT PHP":null,
+                "OCT PHP":null,
+                "Total Customer Charges":null,
+                "Previous Balance":null,
+                "Payments":null,
+                "Past Due amount":null
+            },
+            {
+                "Template":"Invoice Pldt Soa",
+                "Page":8,
+                "Vendor Address":"Ramon Cojuangco Bidg., Makati Ave., Makati City 1200",
+                "VAT REGISTERED TIN:":"000-488-793-00000",
+                "Account Number":174470006.0,
+                "SOA Number":122519875.0,
+                "Bill Date":"Nov 17, 2021",
+                "Total Amount due":"250.02",
+                "Payment Due Date":"Dec 13, 2021",
+                "Adjustments":0.0,
+                "Account Name":"Pointwest Technologies Corporation",
+                "Address":"12F CITIBANK CENTER 8741 PASEO DE ROXAS BGY BEL-AIR MAKATI CITY, METRO MANILA PHILIPPINES",
+                "Assigned":null,
+                "Recurring Charges":"250.00",
+                "Usage Charges":null,
+                "VAT PHP":"26.79",
+                "OCT PHP":0.0,
+                "Total Customer Charges":"250.00",
+                "Previous Balance":"500.02",
+                "Payments":"500.00",
+                "Past Due amount":"0.02"
+            }
+        ]
+    },
+    "APV_013950 Smart Communications Inc._attachment":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/APV_013950 Smart Communications Inc._attachment - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POIC97021_52060669_18122021.000000021.0K0E_G.20211220031705.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POIC97021_52060669_18122021.000000021.0K0E_G.20211220031705.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Innovations Corporation",
+                "SOA Number":684292373,
+                "TIN":"000-768-480-000",
+                "Assigned":"Rommel Dela Cruz",
+                "Bill no.":151,
+                "Corporate ID":"POIC97021",
+                "Account Number":52060669,
+                "Primary Number":9175133182,
+                "Billing Period Start":"11-18-21",
+                "Billing Period End":"12-17-21",
+                "Due Date":"01-07-22",
+                "Total":1339.29,
+                "Previous Bill Amount":1285.71,
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":1285.71,
+                "Amount to Pay":2625.0
+            }
+        ]
+    },
+    "dd.bfpr.REG_POIC97021_72186749_18122021.000000021.0K0E_G.20211220031705.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POIC97021_72186749_18122021.000000021.0K0E_G.20211220031705.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POIC97021_72279135_18122021.000000021.0K0E_G.20211220031705.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POIC97021_72279135_18122021.000000021.0K0E_G.20211220031705.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Innovations Corporation",
+                "SOA Number":684292355,
+                "TIN":"000-768-480-000",
+                "Assigned":"Efren Audey Aguirre",
+                "Bill no.":117,
+                "Corporate ID":"POIC97021",
+                "Account Number":72279135,
+                "Primary Number":9178911791,
+                "Billing Period Start":"11-18-21",
+                "Billing Period End":"12-17-21",
+                "Due Date":"01-07-22",
+                "Total":891.96,
+                "Previous Bill Amount":856.27,
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":856.27,
+                "Amount to Pay":1748.23
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1001819519_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1001819519_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340295,
+                "TIN":"000-768-480-000",
+                "Assigned":"Nelia Igcasan",
+                "Bill no.":88,
+                "Corporate ID":"POTC95203",
+                "Account Number":1001819519,
+                "Primary Number":9178527666,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":400.0,
+                "Previous Bill Amount":875.53,
+                "Less Name":"Payment",
+                "Less Amount":22.95,
+                "Remaining Balance":852.58,
+                "Amount to Pay":1252.58
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1001819535_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1001819535_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POTC95203_1003558437_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1003558437_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340609,
+                "TIN":"000-768-480-000",
+                "Assigned":"Jemimah Villanueva",
+                "Bill no.":87,
+                "Corporate ID":"POTC95203",
+                "Account Number":1003558437,
+                "Primary Number":9178435443,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":400.0,
+                "Previous Bill Amount":302.9,
+                "Less Name":"Payment",
+                "Less Amount":14.28,
+                "Remaining Balance":317.18,
+                "Amount to Pay":82.82
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1006581758_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1006581758_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POTC95203_1007448377_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1007448377_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340494,
+                "TIN":"000-768-480-000",
+                "Assigned":"Gian Carlo Santos",
+                "Bill no.":85,
+                "Corporate ID":"POTC95203",
+                "Account Number":1007448377,
+                "Primary Number":9178054607,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":500.0,
+                "Previous Bill Amount":490.34,
+                "Less Name":"Payment",
+                "Less Amount":17.86,
+                "Remaining Balance":472.48,
+                "Amount to Pay":972.48
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1007448385_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1007448385_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340490,
+                "TIN":"000-768-480-000",
+                "Assigned":"Junelle Mendoza",
+                "Bill no.":85,
+                "Corporate ID":"POTC95203",
+                "Account Number":1007448385,
+                "Primary Number":9178053169,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":842.94,
+                "Previous Bill Amount":1423.71,
+                "Less Name":"Payment",
+                "Less Amount":40.55,
+                "Remaining Balance":1383.16,
+                "Amount to Pay":2226.1
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1017601399_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1017601399_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340284,
+                "TIN":"000-768-480-000",
+                "Assigned":"Juven Joson",
+                "Bill no.":78,
+                "Corporate ID":"POTC95203",
+                "Account Number":1017601399,
+                "Primary Number":9175958674,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":999.0,
+                "Previous Bill Amount":973.14,
+                "Less Name":"Payment",
+                "Less Amount":35.68,
+                "Remaining Balance":937.46,
+                "Amount to Pay":1936.46
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340284,
+                "TIN":"000-768-480-000",
+                "Assigned":"Juven Joson",
+                "Bill no.":78,
+                "Corporate ID":"POTC95203",
+                "Account Number":1017601399,
+                "Primary Number":9175958674,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":999.0,
+                "Previous Bill Amount":973.14,
+                "Less Name":"Payment",
+                "Less Amount":35.68,
+                "Remaining Balance":937.46,
+                "Amount to Pay":1936.46
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1017881723_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1017881723_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POTC95203_1055585303_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1055585303_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POTC95203_1059102145_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1059102145_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POTC95203_1059102153_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1059102153_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POTC95203_1062120388_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1062120388_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340550,
+                "TIN":"000-768-480-000",
+                "Assigned":"Anthony Tejada",
+                "Bill no.":48,
+                "Corporate ID":"POTC95203",
+                "Account Number":1062120388,
+                "Primary Number":9176319679,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":400.0,
+                "Previous Bill Amount":390.9,
+                "Less Name":"Payment",
+                "Less Amount":14.28,
+                "Remaining Balance":376.62,
+                "Amount to Pay":776.62
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1082887323_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-789d9ad1650d\/Searchable PDF\/dd.bfpr.REG_POTC95203_1082887323_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POTC95203_1093465867_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1093465867_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340475.0,
+                "TIN":"000-768-480-000",
+                "Assigned":"Bryan - Berroy",
+                "Bill no.":"16",
+                "Corporate ID":"POTC95203",
+                "Account Number":1093465867.0,
+                "Primary Number":9178270539.0,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":"698.00",
+                "Previous Bill Amount":899.52,
+                "Less Name":"Payment",
+                "Less Amount":28.76,
+                "Remaining Balance":870.76,
+                "Amount to Pay":1568.76
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":3,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":null,
+                "TIN":"000-768-480-000",
+                "Assigned":"978709 (continued)",
+                "Bill no.":"8111109 001109",
+                "Corporate ID":null,
+                "Account Number":null,
+                "Primary Number":null,
+                "Billing Period Start":null,
+                "Billing Period End":null,
+                "Due Date":null,
+                "Total":"11.00 0 49.11",
+                "Previous Bill Amount":null,
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":null,
+                "Amount to Pay":null
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340475.0,
+                "TIN":"000-768-480-000",
+                "Assigned":"Bryan - Berroy",
+                "Bill no.":"16",
+                "Corporate ID":"POTC95203",
+                "Account Number":1093465867.0,
+                "Primary Number":9178270539.0,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":"698.00",
+                "Previous Bill Amount":899.52,
+                "Less Name":"Payment",
+                "Less Amount":28.76,
+                "Remaining Balance":870.76,
+                "Amount to Pay":1568.76
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":3,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":null,
+                "TIN":"000-768-480-000",
+                "Assigned":"978709 (continued)",
+                "Bill no.":"8111109 001109",
+                "Corporate ID":null,
+                "Account Number":null,
+                "Primary Number":null,
+                "Billing Period Start":null,
+                "Billing Period End":null,
+                "Due Date":null,
+                "Total":"11.00 0 49.11",
+                "Previous Bill Amount":null,
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":null,
+                "Amount to Pay":null
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1093465875_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1093465875_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":3,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":null,
+                "TIN":"000-768-480-000",
+                "Assigned":"978989 (continued)",
+                "Bill no.":"8111109 001109",
+                "Corporate ID":null,
+                "Account Number":null,
+                "Primary Number":null,
+                "Billing Period Start":null,
+                "Billing Period End":null,
+                "Due Date":null,
+                "Total":"0 13.39 3.00",
+                "Previous Bill Amount":null,
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":null,
+                "Amount to Pay":null
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340473,
+                "TIN":"000-768-480-000",
+                "Assigned":"Angelito - Marquez",
+                "Bill no.":16,
+                "Corporate ID":"POTC95203",
+                "Account Number":1093465875,
+                "Primary Number":9178298149,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":698.0,
+                "Previous Bill Amount":506.7,
+                "Less Name":"Payment",
+                "Less Amount":24.92,
+                "Remaining Balance":481.78,
+                "Amount to Pay":"1 179.78"
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1093465883_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1093465883_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340484.0,
+                "TIN":"000-768-480-000",
+                "Assigned":"Ma. Rodelma - Ang",
+                "Bill no.":"16",
+                "Corporate ID":"POTC95203",
+                "Account Number":1093465883.0,
+                "Primary Number":9178328533.0,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":"1 152.91",
+                "Previous Bill Amount":2039.32,
+                "Less Name":"Payment",
+                "Less Amount":43.93,
+                "Remaining Balance":1995.39,
+                "Amount to Pay":3148.3
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":3,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":null,
+                "TIN":"000-768-480-000",
+                "Assigned":"9788 (continued)",
+                "Bill no.":"8111109 001109",
+                "Corporate ID":null,
+                "Account Number":null,
+                "Primary Number":null,
+                "Billing Period Start":null,
+                "Billing Period End":null,
+                "Due Date":null,
+                "Total":"0 17.85 4.00",
+                "Previous Bill Amount":null,
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":null,
+                "Amount to Pay":null
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340484.0,
+                "TIN":"000-768-480-000",
+                "Assigned":"Ma. Rodelma - Ang",
+                "Bill no.":"16",
+                "Corporate ID":"POTC95203",
+                "Account Number":1093465883.0,
+                "Primary Number":9178328533.0,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":"1 152.91",
+                "Previous Bill Amount":2039.32,
+                "Less Name":"Payment",
+                "Less Amount":43.93,
+                "Remaining Balance":1995.39,
+                "Amount to Pay":3148.3
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":3,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":null,
+                "TIN":"000-768-480-000",
+                "Assigned":"9788 (continued)",
+                "Bill no.":"8111109 001109",
+                "Corporate ID":null,
+                "Account Number":null,
+                "Primary Number":null,
+                "Billing Period Start":null,
+                "Billing Period End":null,
+                "Due Date":null,
+                "Total":"0 17.85 4.00",
+                "Previous Bill Amount":null,
+                "Less Name":null,
+                "Less Amount":null,
+                "Remaining Balance":null,
+                "Amount to Pay":null
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1093465913_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1093465913_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340483,
+                "TIN":"000-768-480-000",
+                "Assigned":"Charisse Divine - Chosantos",
+                "Bill no.":16,
+                "Corporate ID":"POTC95203",
+                "Account Number":1093465913,
+                "Primary Number":9178319708,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":698.0,
+                "Previous Bill Amount":684.75,
+                "Less Name":"Payment",
+                "Less Amount":24.92,
+                "Remaining Balance":659.83,
+                "Amount to Pay":1357.83
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340483,
+                "TIN":"000-768-480-000",
+                "Assigned":"Charisse Divine - Chosantos",
+                "Bill no.":16,
+                "Corporate ID":"POTC95203",
+                "Account Number":1093465913,
+                "Primary Number":9178319708,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":698.0,
+                "Previous Bill Amount":684.75,
+                "Less Name":"Payment",
+                "Less Amount":24.92,
+                "Remaining Balance":659.83,
+                "Amount to Pay":1357.83
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1103944215_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1103944215_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340481,
+                "TIN":"000-768-480-000",
+                "Assigned":"John Benedict - Bautista",
+                "Bill no.":8,
+                "Corporate ID":"POTC95203",
+                "Account Number":1103944215,
+                "Primary Number":9178145216,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":1019.83,
+                "Previous Bill Amount":1038.04,
+                "Less Name":"Payment",
+                "Less Amount":36.42,
+                "Remaining Balance":1001.62,
+                "Amount to Pay":2021.45
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340481,
+                "TIN":"000-768-480-000",
+                "Assigned":"John Benedict - Bautista",
+                "Bill no.":8,
+                "Corporate ID":"POTC95203",
+                "Account Number":1103944215,
+                "Primary Number":9178145216,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":1019.83,
+                "Previous Bill Amount":1038.04,
+                "Less Name":"Payment",
+                "Less Amount":36.42,
+                "Remaining Balance":1001.62,
+                "Amount to Pay":2021.45
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1106130235_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1106130235_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340421,
+                "TIN":"000-768-480-000",
+                "Assigned":"Annalie N Ventura",
+                "Bill no.":7,
+                "Corporate ID":"POTC95203",
+                "Account Number":1106130235,
+                "Primary Number":9178328198,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":534.82,
+                "Previous Bill Amount":544.37,
+                "Less Name":"Payment",
+                "Less Amount":19.1,
+                "Remaining Balance":525.27,
+                "Amount to Pay":1060.09
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340421,
+                "TIN":"000-768-480-000",
+                "Assigned":"Annalie N Ventura",
+                "Bill no.":7,
+                "Corporate ID":"POTC95203",
+                "Account Number":1106130235,
+                "Primary Number":9178328198,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":534.82,
+                "Previous Bill Amount":544.37,
+                "Less Name":"Payment",
+                "Less Amount":19.1,
+                "Remaining Balance":525.27,
+                "Amount to Pay":1060.09
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1107649692_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1107649692_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340377,
+                "TIN":"000-768-480-000",
+                "Assigned":"Myrnad Faustino",
+                "Bill no.":6,
+                "Corporate ID":"POTC95203",
+                "Account Number":1107649692,
+                "Primary Number":9178006731,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":null,
+                "Total":400.0,
+                "Previous Bill Amount":395.0,
+                "Less Name":"Payment",
+                "Less Amount":14.34,
+                "Remaining Balance":409.34,
+                "Amount to Pay":9.34
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340377,
+                "TIN":"000-768-480-000",
+                "Assigned":"Myrnad Faustino",
+                "Bill no.":6,
+                "Corporate ID":"POTC95203",
+                "Account Number":1107649692,
+                "Primary Number":9178006731,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":null,
+                "Total":400.0,
+                "Previous Bill Amount":395.0,
+                "Less Name":"Payment",
+                "Less Amount":14.34,
+                "Remaining Balance":409.34,
+                "Amount to Pay":9.34
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1107649706_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1107649706_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POTC95203_1107686504_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1107686504_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340417,
+                "TIN":"000-768-480-000",
+                "Assigned":"Realiza - Florentino",
+                "Bill no.":6,
+                "Corporate ID":"POTC95203",
+                "Account Number":1107686504,
+                "Primary Number":9178363663,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":799.0,
+                "Previous Bill Amount":870.56,
+                "Less Name":"Payment",
+                "Less Amount":35.74,
+                "Remaining Balance":834.82,
+                "Amount to Pay":1633.82
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1107686539_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1107686539_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340426,
+                "TIN":"000-768-480-000",
+                "Assigned":"Rodel - Castillo",
+                "Bill no.":6,
+                "Corporate ID":"POTC95203",
+                "Account Number":1107686539,
+                "Primary Number":9178373043,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":799.0,
+                "Previous Bill Amount":813.27,
+                "Less Name":"Payment",
+                "Less Amount":28.54,
+                "Remaining Balance":784.73,
+                "Amount to Pay":1583.73
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1111281998_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1111281998_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340317,
+                "TIN":"000-768-480-000",
+                "Assigned":"Marian Soledad - Macapanpan",
+                "Bill no.":5,
+                "Corporate ID":"POTC95203",
+                "Account Number":1111281998,
+                "Primary Number":9178099400,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":599.0,
+                "Previous Bill Amount":609.7,
+                "Less Name":"Payment",
+                "Less Amount":20.68,
+                "Remaining Balance":589.02,
+                "Amount to Pay":1188.02
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340317,
+                "TIN":"000-768-480-000",
+                "Assigned":"Marian Soledad - Macapanpan",
+                "Bill no.":5,
+                "Corporate ID":"POTC95203",
+                "Account Number":1111281998,
+                "Primary Number":9178099400,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":599.0,
+                "Previous Bill Amount":609.7,
+                "Less Name":"Payment",
+                "Less Amount":20.68,
+                "Remaining Balance":589.02,
+                "Amount to Pay":1188.02
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1111282005_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1111282005_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340313,
+                "TIN":"000-768-480-000",
+                "Assigned":"Kate Lauren - Boltican",
+                "Bill no.":5,
+                "Corporate ID":"POTC95203",
+                "Account Number":1111282005,
+                "Primary Number":9178024613,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":null,
+                "Total":400.0,
+                "Previous Bill Amount":1309.46,
+                "Less Name":"Payment",
+                "Less Amount":14.28,
+                "Remaining Balance":1323.74,
+                "Amount to Pay":923.74
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340313,
+                "TIN":"000-768-480-000",
+                "Assigned":"Kate Lauren - Boltican",
+                "Bill no.":5,
+                "Corporate ID":"POTC95203",
+                "Account Number":1111282005,
+                "Primary Number":9178024613,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":null,
+                "Total":400.0,
+                "Previous Bill Amount":1309.46,
+                "Less Name":"Payment",
+                "Less Amount":14.28,
+                "Remaining Balance":1323.74,
+                "Amount to Pay":923.74
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1111282013_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1111282013_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340309,
+                "TIN":"000-768-480-000",
+                "Assigned":"Talent Acquisition -",
+                "Bill no.":5,
+                "Corporate ID":"POTC95203",
+                "Account Number":1111282013,
+                "Primary Number":9178441654,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":400.0,
+                "Previous Bill Amount":407.14,
+                "Less Name":"Payment",
+                "Less Amount":14.28,
+                "Remaining Balance":392.86,
+                "Amount to Pay":792.86
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1111282021_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1111282021_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340306,
+                "TIN":"000-768-480-000",
+                "Assigned":"Talent Acquisition -",
+                "Bill no.":5,
+                "Corporate ID":"POTC95203",
+                "Account Number":1111282021,
+                "Primary Number":9178441452,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":400.0,
+                "Previous Bill Amount":407.14,
+                "Less Name":"Payment",
+                "Less Amount":14.28,
+                "Remaining Balance":392.86,
+                "Amount to Pay":792.86
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340306,
+                "TIN":"000-768-480-000",
+                "Assigned":"Talent Acquisition -",
+                "Bill no.":5,
+                "Corporate ID":"POTC95203",
+                "Account Number":1111282021,
+                "Primary Number":9178441452,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":400.0,
+                "Previous Bill Amount":407.14,
+                "Less Name":"Payment",
+                "Less Amount":14.28,
+                "Remaining Balance":392.86,
+                "Amount to Pay":792.86
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1114287490_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1114287490_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340386,
+                "TIN":"000-768-480-000",
+                "Assigned":"Ma. Josefina M Reyes",
+                "Bill no.":3,
+                "Corporate ID":"POTC95203",
+                "Account Number":1114287490,
+                "Primary Number":9178275085,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":499.0,
+                "Previous Bill Amount":1343.8,
+                "Less Name":"Payment",
+                "Less Amount":24.0,
+                "Remaining Balance":1319.8,
+                "Amount to Pay":1818.8
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340386,
+                "TIN":"000-768-480-000",
+                "Assigned":"Ma. Josefina M Reyes",
+                "Bill no.":3,
+                "Corporate ID":"POTC95203",
+                "Account Number":1114287490,
+                "Primary Number":9178275085,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":499.0,
+                "Previous Bill Amount":1343.8,
+                "Less Name":"Payment",
+                "Less Amount":24.0,
+                "Remaining Balance":1319.8,
+                "Amount to Pay":1818.8
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1114287512_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1114287512_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340383,
+                "TIN":"000-768-480-000",
+                "Assigned":"Silverio Durano",
+                "Bill no.":3,
+                "Corporate ID":"POTC95203",
+                "Account Number":1114287512,
+                "Primary Number":9178279452,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":499.0,
+                "Previous Bill Amount":1343.8,
+                "Less Name":"Payment",
+                "Less Amount":24.0,
+                "Remaining Balance":1319.8,
+                "Amount to Pay":1818.8
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1115715437_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1115715437_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340414,
+                "TIN":"000-768-480-000",
+                "Assigned":"Rey E Untal",
+                "Bill no.":3,
+                "Corporate ID":"POTC95203",
+                "Account Number":1115715437,
+                "Primary Number":9175555827,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":2398.0,
+                "Previous Bill Amount":5275.73,
+                "Less Name":"Payment",
+                "Less Amount":94.21,
+                "Remaining Balance":5181.52,
+                "Amount to Pay":7579.52
+            },
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340414,
+                "TIN":"000-768-480-000",
+                "Assigned":"Rey E Untal",
+                "Bill no.":3,
+                "Corporate ID":"POTC95203",
+                "Account Number":1115715437,
+                "Primary Number":9175555827,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":2398.0,
+                "Previous Bill Amount":5275.73,
+                "Less Name":"Payment",
+                "Less Amount":94.21,
+                "Remaining Balance":5181.52,
+                "Amount to Pay":7579.52
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1117076857_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1117076857_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "dd.bfpr.REG_POTC95203_1117076865_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1117076865_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340396,
+                "TIN":"000-768-480-000",
+                "Assigned":"Gennievive - Andrin",
+                "Bill no.":2,
+                "Corporate ID":"POTC95203",
+                "Account Number":1117076865,
+                "Primary Number":9178097248,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":599.0,
+                "Previous Bill Amount":985.46,
+                "Less Name":"Payment",
+                "Less Amount":17.6,
+                "Remaining Balance":967.86,
+                "Amount to Pay":1566.86
+            }
+        ]
+    },
+    "dd.bfpr.REG_POTC95203_1117076881_24122021.000000005.0K0E_G.20211225184105.output":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch b-eeadc10cf3b3\/Searchable PDF\/dd.bfpr.REG_POTC95203_1117076881_24122021.000000005.0K0E_G.20211225184105.output - Searchable PDF.pdf",
+            "newlines":null
+        },
+        "KVP":[
+            {
+                "Template":"Invoice Globe Bill P1",
+                "Page":1,
+                "Account Name":"Pointwest Technologies Corporation",
+                "SOA Number":686340403,
+                "TIN":"000-768-480-000",
+                "Assigned":"Sheryl - Mateo",
+                "Bill no.":2,
+                "Corporate ID":"POTC95203",
+                "Account Number":1117076881,
+                "Primary Number":9178056357,
+                "Billing Period Start":"11-24-21",
+                "Billing Period End":"12-23-21",
+                "Due Date":"01-13-22",
+                "Total":599.0,
+                "Previous Bill Amount":985.46,
+                "Less Name":"Payment",
+                "Less Amount":17.6,
+                "Remaining Balance":967.86,
+                "Amount to Pay":1566.86
+            }
+        ]
+    },
+    "AU031422-001_0":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-001_0 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-002_1":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-002_1 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-003_2":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-003_2 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-004_3":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-004_3 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-005_4":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-005_4 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-006_5":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-006_5 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-007_6":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-007_6 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-008_7":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-008_7 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-009_8":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-009_8 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-010_9":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-010_9 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-014_13":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-014_13 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-073_0":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-073_0 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-074_1":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-074_1 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-075_2":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-075_2 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-076_3":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-076_3 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-077_4":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-077_4 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-078_5":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-078_5 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-086_13":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-086_13 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-145_0":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-145_0 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-146_1":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-146_1 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-147_2":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-147_2 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-148_3":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-148_3 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-149_4":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-149_4 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-150_5":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-150_5 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-158_13":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220931-B-4573aaad47\/Searchable PDF\/AU031422-158_13 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-011_10":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-011_10 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-012_11":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-012_11 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-013_12":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-013_12 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-015_14":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-015_14 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-016_15":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-016_15 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-017_16":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-017_16 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-018_17":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-018_17 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-019_18":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-019_18 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-020_19":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-020_19 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-021_20":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-021_20 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-022_21":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-022_21 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-023_22":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-023_22 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-038_37":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-038_37 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-039_38":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-039_38 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-040_39":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-040_39 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-041_40":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-041_40 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-042_41":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-042_41 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-043_42":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-043_42 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-044_43":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-044_43 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-045_44":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-045_44 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-046_45":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-046_45 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-047_46":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-047_46 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-048_47":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-048_47 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-049_48":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-049_48 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-050_49":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720220946-B-1c3b8fe6d8\/Searchable PDF\/AU031422-050_49 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-051_50":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-051_50 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-052_51":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-052_51 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-053_52":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-053_52 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-054_53":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-054_53 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-055_54":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-055_54 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-056_55":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-056_55 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-057_56":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-057_56 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-058_57":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-058_57 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-059_58":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-059_58 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-060_59":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-060_59 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-061_60":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-061_60 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-062_61":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-062_61 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-063_62":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-063_62 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-064_63":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-064_63 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-065_64":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-065_64 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-066_65":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-066_65 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-067_66":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-067_66 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-068_67":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-068_67 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-069_68":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-069_68 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-070_69":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-070_69 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-071_70":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-071_70 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-072_71":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-072_71 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-079_6":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-079_6 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-080_7":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-080_7 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-081_8":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221001-B-564233dd72\/Searchable PDF\/AU031422-081_8 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-082_9":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-082_9 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-083_10":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-083_10 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-084_11":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-084_11 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-085_12":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-085_12 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-087_14":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-087_14 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-088_15":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-088_15 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-089_16":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-089_16 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-090_17":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-090_17 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-091_18":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-091_18 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-092_19":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-092_19 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-093_20":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-093_20 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-094_21":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-094_21 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-095_22":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-095_22 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-110_37":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-110_37 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-111_38":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-111_38 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-112_39":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-112_39 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-113_40":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-113_40 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-114_41":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-114_41 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-115_42":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-115_42 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-116_43":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-116_43 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-117_44":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-117_44 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-118_45":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-118_45 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-119_46":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-119_46 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-120_47":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-120_47 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-121_48":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221016-B-e61647b447\/Searchable PDF\/AU031422-121_48 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-122_49":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-122_49 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-123_50":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-123_50 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-124_51":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-124_51 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-125_52":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-125_52 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-126_53":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-126_53 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-127_54":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-127_54 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-128_55":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-128_55 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-129_56":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-129_56 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-130_57":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-130_57 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-131_58":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-131_58 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-132_59":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-132_59 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-133_60":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-133_60 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-134_61":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-134_61 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-135_62":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-135_62 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-136_63":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-136_63 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-137_64":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-137_64 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-138_65":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-138_65 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-139_66":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-139_66 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-140_67":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-140_67 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-141_68":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-141_68 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-142_69":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-142_69 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-143_70":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-143_70 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-144_71":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-144_71 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-151_6":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-151_6 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-152_7":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221031-B-d258a367ba\/Searchable PDF\/AU031422-152_7 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-153_8":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-153_8 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-154_9":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-154_9 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-155_10":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-155_10 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-156_11":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-156_11 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-157_12":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-157_12 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-159_14":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-159_14 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-160_15":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-160_15 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-161_16":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-161_16 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-162_17":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-162_17 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-163_18":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-163_18 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-164_19":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-164_19 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-165_20":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-165_20 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-166_21":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-166_21 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-167_22":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-167_22 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-182_37":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-182_37 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-183_38":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-183_38 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-184_39":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-184_39 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-185_40":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-185_40 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-186_41":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-186_41 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-187_42":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-187_42 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-188_43":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-188_43 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-189_44":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-189_44 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-190_45":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-190_45 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-191_46":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-191_46 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-192_47":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221046-B-f48db8948f\/Searchable PDF\/AU031422-192_47 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-028_27":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-028_27 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-029_28":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-029_28 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-030_29":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-030_29 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-031_30":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-031_30 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-035_34":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-035_34 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-036_35":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-036_35 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-037_36":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-037_36 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-100_27":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-100_27 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-101_28":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-101_28 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-102_29":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-102_29 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-103_30":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-103_30 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-107_34":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-107_34 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-108_35":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-108_35 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-172_27":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-172_27 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-173_28":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-173_28 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-174_29":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-174_29 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-175_30":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-175_30 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-193_48":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-193_48 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-194_49":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-194_49 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-195_50":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-195_50 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-196_51":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-196_51 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-197_52":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-197_52 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-198_53":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-198_53 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-199_54":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-199_54 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-200_55":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221101-B-82422f0a31\/Searchable PDF\/AU031422-200_55 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-024_23":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-024_23 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-025_24":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-025_24 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-026_25":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-026_25 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-027_26":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-027_26 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-033_32":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-033_32 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-034_33":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-034_33 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-096_23":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-096_23 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-097_24":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-097_24 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-098_25":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-098_25 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-099_26":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-099_26 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-105_32":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-105_32 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-106_33":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-106_33 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-109_36":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-109_36 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-168_23":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-168_23 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-169_24":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-169_24 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-170_25":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-170_25 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-171_26":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-171_26 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-177_32":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-177_32 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-178_33":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-178_33 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-179_34":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-179_34 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-180_35":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-180_35 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    },
+    "AU031422-181_36":{
+        "PDF File":{
+            "MAX_N":1073741824,
+            "MAX_SEEK_READ":16777216,
+            "MIN_READ_SIZE":4096,
+            "closed":false,
+            "mode":"r",
+            "name":"Batch 031720221117-B-b7400eb4f6\/Searchable PDF\/AU031422-181_36 - Searchable PDF.pdf",
+            "newlines":null
+        }
+    }
+}
+[92mmain took 7.8871 seconds to execute[0m
